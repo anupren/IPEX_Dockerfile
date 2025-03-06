@@ -74,7 +74,7 @@ modelargs:
       - google/flan-t5-xl
       - mistralai/Mistral-7B-v0.1
       - EleutherAI/gpt-neox-20b
-    scriptname: run.py
+    scriptname: /llm/inference/run.py
     device: 
       - cpu
     dtype: 
